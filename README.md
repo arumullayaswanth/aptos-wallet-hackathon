@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🐸 Meme Coin Launcher on Aptos
 _A complete DeFi application that generates meme coins on the Aptos blockchain with automated tokenomics, one-click smart contract deployment, and a modern web interface._
 
@@ -42,7 +42,6 @@ _A complete DeFi application that generates meme coins on the Aptos blockchain w
 
 > ℹ️ Devnet resets periodically. If the explorer link is stale, re-deploy and update this section.
 
----
 
 ## 🏗️ Architecture
 **Backend:** Move smart contracts on Aptos  
