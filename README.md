@@ -3,7 +3,7 @@
 # research-timestamping-dapp
 _A complete DeFi application that generates meme coins on the Aptos blockchain with automated tokenomics, one-click smart contract deployment, and a modern web interface._
 
-![DApp Architecture](https://github.com/username/repo/blob/main/images/dapp_architecture.png?raw=true)
+![DApp Architecture](https://github.com/arumullayaswanth/aptos-wallet-hackathon/blob/c96c08dc91bc104c6befe0128e22d1f34a884e88/dapp_architecture.png)
 
 
 <p align="center">
