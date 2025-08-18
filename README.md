@@ -5,7 +5,7 @@ _A complete DeFi application that generates meme coins on the Aptos blockchain w
 
 ![DApp Architecture](https://github.com/arumullayaswanth/aptos-wallet-hackathon/blob/c96c08dc91bc104c6befe0128e22d1f34a884e88/dapp_architecture.png)
 
-
+![research-timestamping-dapp](https://github.com/arumullayaswanth/aptos-wallet-hackathon/blob/cc07c0e4259a110366c8bfafa238421af335ba18/projectiam.png)
 <p align="center">
   <a href="https://aptos.dev">Aptos</a> •
   <a href="https://move-language.github.io/move/">Move</a> •
