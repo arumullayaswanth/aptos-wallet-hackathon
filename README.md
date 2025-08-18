@@ -3,7 +3,8 @@
 # research-timestamping-dapp
 _A complete DeFi application that generates meme coins on the Aptos blockchain with automated tokenomics, one-click smart contract deployment, and a modern web interface._
 
-![Hero Image – Meme Coin Generator UI](.dapp_architecture.png)
+![DApp Architecture](https://github.com/username/repo/blob/main/images/dapp_architecture.png?raw=true)
+
 
 <p align="center">
   <a href="https://aptos.dev">Aptos</a> •
